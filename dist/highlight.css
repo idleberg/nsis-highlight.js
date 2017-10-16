@@ -2,7 +2,7 @@
 .hljs-dark .hljs,
 .hljs-light .hljs {
   overflow-x: auto;
-  padding: 1em calc(0.66666667) em;
+  padding: 1em 0.66666667em;
   -webkit-text-size-adjust: none;
 }
 .hljs-dark .coffeescript .javascript,
